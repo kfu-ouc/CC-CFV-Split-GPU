@@ -1,0 +1,8 @@
+nos:1
+T_min:0
+T_max:0.2
+N:160
+Nt:500
+T_span:10001
+K:0.001
+over
